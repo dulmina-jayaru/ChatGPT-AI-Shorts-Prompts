@@ -1,0 +1,3 @@
+generate a list of 10 unique video ideas for {Topic}.
+
+Act as a YouTube video script writer and provide an engaging and informative script for a video titled '[Video Topic]'. Start by introducing the topic and capturing the viewers' attention with a compelling hook. Then, proceed to present the ten tips, ensuring that each tip is clearly explained and accompanied by practical examples or real-life scenarios. Throughout the script, maintain an upbeat and conversational tone to keep the viewers engaged. Incorporate relevant statistics, studies, or expert quotes to lend credibility to the tips. the script is for under 1 minute short video so use only 170 words or miner word count than 170 words. return only the narrator part as a one single paragraph.
